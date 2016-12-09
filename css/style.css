@@ -1,0 +1,48 @@
+/*html, 
+body, 
+#scene, 
+#scene li {
+	width: 100vh;
+	height: 100vh;
+}*/
+
+body {
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+}
+
+#wrapper {
+	overflow: hidden;
+}
+
+#scene {
+	padding: 0;
+	list-style: none;
+}
+
+.background {
+    position: absolute;
+    width: 110%;
+    height: 110%;
+    left: -5%;
+    top: -5%;
+	background: #CC84FF url(../img/bg.jpg) no-repeat center;
+  	background-size: cover;
+}
+
+.avatar {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -150px;
+	margin-left: -150px;
+	border-radius: 50%;
+	transition: box-shadow 0.3s;
+	cursor: pointer;
+}
+
+.avatar:hover {
+	box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.5);	
+}
+
+/* ====================== Общие стили ====================== */
