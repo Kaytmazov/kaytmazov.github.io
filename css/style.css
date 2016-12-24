@@ -95,6 +95,14 @@ body {
   background-color: #5990c8;
 }
 
+.redline {
+  top: 7%;
+  right: 32%;
+  width: 155px;
+  height: 155px;
+  background-color: #e2624e;
+}
+
 .drevtorg {
   top: 45%;
   left: 5%;
