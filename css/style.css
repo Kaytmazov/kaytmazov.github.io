@@ -97,7 +97,7 @@ ul {
 }
 
 .royalgraff {
-  top: 20%;
+  top: 18%;
   left: 20%;
   width: 250px;
   height: 250px;
@@ -157,6 +157,14 @@ ul {
   border-color: #1296fd;
 }
 
+.vitrajstudio {
+  top: 40%;
+  left: 4%;
+  width: 180px;
+  height: 180px;
+  background-color: rgba(0, 0, 0, 0.80);
+}
+
 .redline {
   top: 7%;
   right: 32%;
@@ -187,14 +195,6 @@ ul {
   width: 160px;
   height: 160px;
   background-color: rgba(255, 96, 0, 0.56);
-}
-
-.drevtorg {
-  top: 45%;
-  left: 5%;
-  width: 150px;
-  height: 150px;
-  background-color: rgba(189, 213, 92, 0.8);
 }
 
 .dagstroy {
