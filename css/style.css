@@ -157,6 +157,14 @@ ul {
   border-color: #1296fd;
 }
 
+.udmstroy {
+  bottom: 2%;
+  right: 33%;
+  width: 180px;
+  height: 180px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
 .vitrajstudio {
   top: 40%;
   left: 4%;
@@ -174,8 +182,8 @@ ul {
 }
 
 .anvar-hijama {
-  right: 20%;
-  bottom: 8%;
+  right: 17%;
+  bottom: 7%;
   width: 170px;
   height: 170px;
   background-color: #e74c3c;
@@ -198,8 +206,8 @@ ul {
 }
 
 .dagstroy {
-  bottom: 10%;
-  right: 35%;
+  bottom: 7%;
+  left: 43%;
   width: 140px;
   height: 140px;
   background-color: #fff;
@@ -212,15 +220,6 @@ ul {
   width: 130px;
   height: 130px;
   background-color: rgba(22, 144, 193, 0.8);
-}
-
-.caucasus {
-  bottom: 5%;
-  right: 48%;
-  width: 120px;
-  height: 120px;
-  background-color: rgba(0, 0, 0, 0.1);
-  border-color: rgba(255, 255, 255, 0.5)
 }
 
 .blackbadge {
@@ -307,6 +306,16 @@ ul {
   }
 
   .cube {
+    width: 140px;
+    height: 140px;
+  }
+
+  .udmstroy {
+    width: 140px;
+    height: 140px;
+  }
+
+  .vitrajstudio {
     width: 140px;
     height: 140px;
   }
@@ -406,6 +415,16 @@ ul {
   }
 
   .cube {
+    width: 120px;
+    height: 120px;
+  }
+
+  .udmstroy {
+    width: 120px;
+    height: 120px;
+  }
+
+  .vitrajstudio {
     width: 120px;
     height: 120px;
   }
